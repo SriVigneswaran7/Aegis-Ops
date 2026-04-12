@@ -61,7 +61,7 @@ Aegis-Ops includes a specialised module (`cfs-override.sh`) to observe and manip
 | Phase 1: Baseline Load (NI: 0) | Phase 2: Post-Intervention (NI: +10) |
 | :---: | :---: |
 | ![Baseline](./assets/cfs_baseline.png) | ![Intervention](./assets/cfs_proof.png) |
-| *Process initialized at default priority.* | *Kernel-level priority shift verified via top.* |
+| *Process initialised at default priority.* | *Kernel-level priority shift verified via top.* |
 
 > **Note:** Final cleanup was performed via `killall yes` to restore system stability.
 
