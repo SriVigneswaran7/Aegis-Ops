@@ -1,9 +1,9 @@
 # Aegis-Ops
 
-![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![OS: Debian](https://img.shields.io/badge/OS-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
-![Target: ROCK SBC](https://img.shields.io/badge/Target-ROCK%20SBC-blue?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-Language-4EAA25)
+![Debian](https://img.shields.io/badge/Debian-OS-D70A53)
+![ROCK SBC](https://img.shields.io/badge/ROCK_SBC-Target-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A suite of **POSIX-compliant** administrative tools and kernel-level resource investigations designed for ARM-based SBC architectures. Aegis-Ops provides a centralised interface for system telemetry, automated security auditing, and manual scheduler intervention.
 
